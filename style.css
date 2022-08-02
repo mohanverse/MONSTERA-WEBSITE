@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    font-family:
+     "Red Rose";
+}
+#navbarMonstera{
+    width: 100%;
+    height: 100vh;
+    top: 5%;
+    display:flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: black;
+    position:relative;
+    
+    
+}
+#navFirst{
+    width: 250px;
+    margin-left: 7%;
+    position: relative; 
+    margin-top: 3%;
+    
+}
+#navMid{
+    width: 40%;
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    margin: 0 10px;
+    position:relative;
+    cursor: pointer;
+    margin-top:3%;
+    
+
+    
+}
+#navEnd{
+    width: 7%;
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    margin: 0px;
+    position:relative;
+    cursor: pointer;
+    margin-right: 2%;
+    margin-top: 3%;
+
+}
+#midWhole{
+    width: 100%;
+    position: relative;
+    display: inline-flex;
+   justify-content: space-between;
+   background-size: contain;
+   
+   
+   
+}
+#midWholePart11{
+    width: 100%;
+    position:relative;
+    bottom: 45%;
+    margin-left: 7%;
+    justify-content: space-between;
+        
+}
+#imgMain{
+    width: 100%;
+    position: relative;
+    bottom: 75%;
+}
+
+
+#midWholePart12{
+    width: 100%;
+    position:relative;
+    bottom: 42%;
+    margin-left: 7%;
+    justify-content: space-between;
+    
+}
+
+#midWholePart13{
+    width: 100%;
+    position: relative;
+    display: inline-flex;
+    bottom: 25%;
+    margin-left: 7%;
+}
+
+#monstera{
+    width: 100%;
+    position: relative;
+    font-size: 120px;
+   
+
+}
+#midWholePart121{
+    width: 250px;
+    height: 70px;
+    padding: 15px 0;
+    text-align: center;
+    margin:20px 10px;
+    border-radius: 18px;
+    font-weight: bold;
+    border: 2px solid #086d2d;
+    background-color: #086d2d;
+    cursor: pointer;
+    color: white;
+    top: 50px;
+    display: inline-flex;
+    justify-content:space-evenly;
+    margin-left: 10%;
+}
+#midWholePart13Parts text{
+    width: 100%;
+    position: absolute ;
+
+    display:inline-flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
